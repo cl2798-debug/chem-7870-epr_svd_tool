@@ -8,11 +8,12 @@ A Python package for preprocessing, denoising, and visualizing kinetic EPR spect
 
 Kinetic EPR data often contains weak radical signals and baseline drift noise. This package organizes EPR spectra into a field-by-scan matrix, applies baseline correction and normalization, and uses SVD to extract dominant kinetic components while reducing noise.
 
+# Running
+
+Put example .DSC and .DTA files in the same folder as the codes, run compare_waterfall.py
+
 ## Installation
 
 ```bash
 pip install -e .
 
-## Running
-
-Put example .DSC and .DTA files in the same folder as the codes, run compare_waterfall.py
