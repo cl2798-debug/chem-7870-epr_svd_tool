@@ -12,3 +12,7 @@ Kinetic EPR data often contains weak radical signals and baseline drift noise. T
 
 ```bash
 pip install -e .
+
+## Running
+
+Put example .DSC and .DTA files in the same folder as the codes, run compare_waterfall.py
