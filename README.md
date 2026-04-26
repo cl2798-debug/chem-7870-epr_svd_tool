@@ -2,7 +2,7 @@
 
 # EPR SVD Tool
 
-A Python package for loading, preprocessing, denoising, and visualizing kinetic EPR spectra using singular value decomposition (SVD).
+A Python package for preprocessing, denoising, and visualizing kinetic EPR spectra using SVD.
 
 ## Purpose
 
